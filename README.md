@@ -11,6 +11,8 @@ Launchpad-Star   | ``$("#AddToCart")``         | ``$( "select#productSelect opti
 ## Links
 * https://apps.shopify.com/facebook-product-catalog
 * https://www.facebook.com/business/help/952192354843755
+* http://shopify.flexify.net/facebook-dynamic-product-ads-shopify/
+* http://shopify.flexify.net/shopify-facebook-product-feed-app-troubleshooting-faq/
 
 ## Can I contribute to this documentation?
 
