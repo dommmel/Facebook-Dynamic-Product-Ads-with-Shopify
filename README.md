@@ -6,6 +6,7 @@ This documentation complements the the general guide: "[Setting up Dynamic Produ
 Theme name       | Add-To-Cart button selector | Code to extract the variant ID
 ---------------- | ----------------------------|--------------------------------
 Launchpad-Star   | ``$("#AddToCart")``         | ``$( "select#productSelect option:selected").val()``
+[Minimal](https://themes.shopify.com/themes/minimal)   | ``$("#AddToCart")``         | ``$( "select#productSelect option:selected").val()``
 
 ## Links
 * https://apps.shopify.com/facebook-product-catalog
