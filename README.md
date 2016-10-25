@@ -10,6 +10,7 @@ Launchpad-Star   | ``$("#AddToCart")``         | ``$( "select#productSelect opti
 [Minimal](https://themes.shopify.com/themes/minimal) <br> _* not an ajax shopping cart_  | ``$("#AddToCart")``  |``$( "select#product-select option:selected").val()``
 [New Standard](https://themes.shopify.com/themes/new-standard)  <br> _* not an ajax shopping cart_ | ``$("#add")`` | ``$( "select#product-select option:selected").val()``
 [Parallax](https://themes.shopify.com/themes/parallax) | ``$(".add_to_cart").first()``| ``$(".product_form option:selected").first().val()``
+[Mobilia](https://themes.shopify.com/themes/mobilia/styles/tokyo) | ``$('.add_to_cart')``| ``$(this).parents('form').find("[name='id']").val()``
 
 _*not an ajax shopping cart_
 
